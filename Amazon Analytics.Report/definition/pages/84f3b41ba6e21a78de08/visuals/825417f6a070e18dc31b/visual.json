@@ -145,7 +145,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Pricing'"
+                  "Value": "'Pricing Over Time'"
                 }
               }
             }
